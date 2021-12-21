@@ -1,1 +1,1 @@
-alert('Hello there!');
+console.log('refreshed the page');
